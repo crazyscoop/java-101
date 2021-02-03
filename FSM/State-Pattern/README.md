@@ -32,7 +32,8 @@
 - https://refactoring.guru/design-patterns/state/java/example
 - https://sourcemaking.com/design_patterns/state/java/3
 
-## Other References
+
+## References
 - android: https://medium.com/@yolapop/implementing-state-machine-on-android-app-634b2f75b08e
 - android: https://medium.com/@romain.rochegude/fsm-on-android-how-to-reach-app-modularity-f62d0a0054a
 
