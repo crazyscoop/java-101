@@ -10,7 +10,7 @@
 
 
 ## UML Diagram
-<img src="https://sourcemaking.com/files/v2/content/patterns/State1-2x.png" width="450" height="250">
+<img src="https://sourcemaking.com/files/v2/content/patterns/State1-2x.png" width="500" height="300">
 
 
 ## When To Use
