@@ -1,3 +1,5 @@
+package statePattern;
+
 public class SleepState implements State {
 
   private static SleepState instance = new SleepState();

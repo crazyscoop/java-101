@@ -1,3 +1,5 @@
+package statePattern;
+
 public class CodeState implements State {
 
   private static CodeState instance = new CodeState();
@@ -11,7 +13,7 @@ public class CodeState implements State {
 
   @Override
   public void takeRest(final Developer dev) {
-    System.out.println("GOING TO REST");
+    System.out.println("TAKING REST");
     dev.setCurrentState(IdleState.getInstance());
   }
 

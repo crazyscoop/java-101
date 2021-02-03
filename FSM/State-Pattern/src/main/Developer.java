@@ -1,3 +1,5 @@
+package statePattern;
+
 public class Developer {
 
   private State currentState;

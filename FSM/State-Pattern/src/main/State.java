@@ -1,3 +1,5 @@
+package statePattern;
+
 public interface State {
 
   default void doWork(Developer dev) {

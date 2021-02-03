@@ -1,3 +1,5 @@
+package statePattern;
+
 import java.util.Arrays;
 
 public class TestClass {

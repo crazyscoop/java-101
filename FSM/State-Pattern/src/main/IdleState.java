@@ -1,3 +1,5 @@
+package statePattern;
+
 public class IdleState implements State {
 
   private static IdleState instance = new IdleState();
