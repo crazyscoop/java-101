@@ -1,4 +1,4 @@
-package enums;
+package FSM.Enum;
 
 public enum DeveloperEnum {
 

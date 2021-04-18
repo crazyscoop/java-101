@@ -1,4 +1,4 @@
-package statePattern;
+package FSM.StatePattern;
 
 public class CodeState implements State {
 

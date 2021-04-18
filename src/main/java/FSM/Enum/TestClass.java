@@ -1,17 +1,15 @@
-package statePattern;
+package FSM.Enum;
 
 import java.util.Arrays;
 
 public class TestClass {
 
   public static void main(String... args) {
-    Developer dev = new Developer(1);
+    Developer dev = new Developer();
 
-    boolean cont = true;
+    int[] array = {1, 0, 0, 0, 1, 1, 1, 1};
 
-    int[] action = {1, 0, 0, 0, 1, 1, 1, 1};
-
-    Arrays.stream(action)
+    Arrays.stream(array)
           .forEach(i -> {
             if (i == 1) {
               dev.doWork();

@@ -1,4 +1,4 @@
-package statePattern;
+package FSM.StatePattern;
 
 public class SleepState implements State {
 
