@@ -51,4 +51,8 @@ public class Person {
           + ", name='" + name + '\''
           + '}';
   }
+
+  public int comparedTo(Person p) {
+    return this.getAge() >= p.getAge()?1:-1;
+  }
 }
